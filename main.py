@@ -64,7 +64,7 @@ async def view(request: Request):
                     <meta property="fc:frame:button:1:target" content="{os.environ.get('EXTERNAL_URL')}" />
                     <meta property="fc:frame:button:2" content="Mint" />
                     <meta property="fc:frame:button:2:action" content="link" />
-                    <meta property="fc:frame:button:2:target" content="https://zora.co/collect/base:0xdc1fcc6a3f76e775b2b28e18b5f8b4bb92c463c2z/" />
+                    <meta property="fc:frame:button:2:target" content="https://t.co/xE4knCGSrP" />
                     </head></html>"""
             )
         )    
