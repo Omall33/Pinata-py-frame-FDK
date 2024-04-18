@@ -62,9 +62,9 @@ async def view(request: Request):
                     <meta property="fc:frame:button:1" content="{os.environ.get('TITLE')}" />
                     <meta property="fc:frame:button:1:action" content="link" />
                     <meta property="fc:frame:button:1:target" content="{os.environ.get('EXTERNAL_URL')}" />
-                    <meta property="fc:frame:button:2" content="Mint" />
+                    <meta property="fc:frame:button:2" content="Form" />
                     <meta property="fc:frame:button:2:action" content="link" />
-                    <meta property="fc:frame:button:2:target" content="https://t.co/xE4knCGSrP" />
+                    <meta property="fc:frame:button:2:target" content="https://basedbitmonke.xyz" />
                     </head></html>"""
             )
         )    
